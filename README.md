@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodbbranco
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React using Typescript.
+- 👀 Front-End Developer.
+- 🌱 Currently learning React.
 
 <!---
 rodbbranco/rodbbranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
