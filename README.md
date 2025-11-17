@@ -28,7 +28,7 @@ Based in Portugal 🇵🇹
 
 ## 👨‍💻 What I’m up to
 - Studying Computer Science, focused on web dev and cybersecurity
-- Building fast, accessible UIs with Next.js, React, TypeScript, and Tailwind
+- Building fast, accessible UIs with Next.js, React, TypeScript, and TailwindCSS
 - Filming and editing wedding stories
 - Nerding out on little productivity tools
 
