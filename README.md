@@ -1,6 +1,6 @@
 # Hey, I’m @rodbbranco 👋
 
-Computer Science Student • Freelance Frontend Developer • Part‑time Wedding Videographer
+Frontend Developer • Computer Science Student  • Part‑time Wedding Videographer
 
 Based in Portugal 🇵🇹
 
