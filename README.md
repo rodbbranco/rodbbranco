@@ -27,7 +27,7 @@ Based in Portugal 🇵🇹
 -->
 
 ## 👨‍💻 What I’m up to
-- Managing impact‑driven projects at the Portuguese Red Cross
+- Studying Computer Science, focused on web dev and cybersecurity
 - Building fast, accessible UIs with Next.js, React, TypeScript, and Tailwind
 - Filming and editing wedding stories
 - Nerding out on little productivity tools
