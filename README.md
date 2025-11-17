@@ -1,6 +1,6 @@
 # Hey, I’m @rodbbranco 👋
 
-Project Manager at the Portuguese Red Cross • Freelance Frontend Developer • Part‑time Wedding Videographer
+Computer Science Student • Freelance Frontend Developer • Part‑time Wedding Videographer
 
 Based in Portugal 🇵🇹
 
