@@ -11,13 +11,6 @@ Based in Portugal 🇵🇹
 ## 💻  Tech I enjoy
 ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded) ![Better Auth](https://www.shieldcn.dev/badge/-Better_Auth-000000.svg?logo=ri%3ARiShieldKeyholeFill&variant=branded) ![Drizzle](https://www.shieldcn.dev/badge/-Drizzle-C5F74F.svg?logo=drizzle&variant=branded) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded) ![Radix UI](https://www.shieldcn.dev/badge/-Radix_UI-000000.svg?logo=radixui&variant=branded)
 
-## 💡Featured project
-- Slice Audio — a simple web app to split audio into equal segments for faster editing and workflows.
-  - Use cases: podcast editing, sound design, batch slicing for content clips.
-  - Repo: [rodbbranco/slice_audio](https://github.com/rodbbranco/slice_audio)
-
-[![Slice Audio](https://github-readme-stats.vercel.app/api/pin/?username=rodbbranco&repo=slice_audio&theme=transparent)](https://github.com/rodbbranco/slice_audio)
-
 <!--
 ## Selected repos
 - [os_site](https://github.com/rodbbranco/os_site)
