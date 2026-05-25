@@ -9,11 +9,7 @@ Based in Portugal 🇵🇹
 </div>
 
 ## 💻  Tech I enjoy
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?logo=tailwindcss&logoColor=white)
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded) ![TanStack Query](https://www.shieldcn.dev/badge/-TanStack_Query-FF4154.svg?logo=reactquery&variant=branded) ![Better Auth](https://www.shieldcn.dev/badge/-Better_Auth-000000.svg?logo=ri%3ARiShieldKeyholeFill&variant=branded) ![Drizzle](https://www.shieldcn.dev/badge/-Drizzle-C5F74F.svg?logo=drizzle&variant=branded) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded) ![Radix UI]
 
 ## 💡Featured project
 - Slice Audio — a simple web app to split audio into equal segments for faster editing and workflows.
