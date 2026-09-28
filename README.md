@@ -29,7 +29,7 @@ Based in Portugal 🇵🇹
 You’ll find me playing basketball, jamming on the guitar, or tinkering on my computer trying to automate stuff.
 
 ## 📲 Let’s connect
-- Website: https://rodrigobranco.pro/
+- Website: https://rodbbranco.com/
 - Instagram: [@rodbbranco](https://www.instagram.com/rodbbranco/)
 
 <!--
